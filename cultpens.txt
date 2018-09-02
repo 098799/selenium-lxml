@@ -1,0 +1,3 @@
+title,//*[@id="products-details"]/div[2]/h1/span
+price,//*[@id="prod-price"]/span[1]
+brand,//*[@id="site-wrapper"]/div[2]/div[1]/ul/li[3]/a
