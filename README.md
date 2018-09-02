@@ -5,7 +5,7 @@ This is a general monitor crawler. It works as follows:
 python poc_selenium_lxml.py file.txt webpage_url
 ```
 
-where webpage_url is the address of the page needed to be crawled and file.txt is a file containing the XPath selectors for the data that interests us. The format of the data is as follows:
+where `webpage_url` is the address of the page needed to be crawled and `file.txt` is a file containing the XPath selectors for the data that interests us. The format of the data is as follows:
 
 ```
 key,xpath
